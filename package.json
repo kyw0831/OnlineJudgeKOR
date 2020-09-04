@@ -23,7 +23,7 @@
     "katex": "^0.9.0",
     "moment": "^2.22.1",
     "npm": "^6.0.1",
-    "papaparse": "^4.4.0",
+    "papaparse": "^5.2.0",
     "raven-js": "^3.25.0",
     "screenfull": "^3.3.2",
     "simditor": "^2.3.6",
